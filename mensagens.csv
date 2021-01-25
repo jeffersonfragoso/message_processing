@@ -1,0 +1,21 @@
+bff58d7b-8b4a-456a-b852-5a3e000c0e63;10;976666666;NEXTEL;15:24:03;Mensagem será enviada.
+b7e2af69-ce52-4812-adf1-f28e653ac25e;69;999360612;CLARO;19:05:21;Mensagem será enviada.
+c04096fe-2878-4485-886b-4a68a259bac5;43;970513739;NEXTEL;14:54:16;Mensagem será enviada.
+e7b87f43-9aa8-414b-9cec-586ce0875ebc;41;990171682;VIVO;12:35:20;Mensagem será enviada.
+e7b87f43-9aa8-414b-9cec-ffff653ac25e;48;990171682;VIVO;12:35:20;Mensagem será enviada.
+d81b2696-8b62-4b8b-af82-ffff653ac25e;41;997217744;TIM;12:30:48;Mensagem será enviada, (Mesmo destino com hora agendamento menor)
+d877gxzz-8b62-4b8b-af82-ffff653ac25e;41;997217744;TIM;18:45:48;Mensagem bloqueada. (Mesmo destino com hora agendamento maior)
+d825vfyh-9aa8-4b8b-af82-ffff653ac25e;41;987777835;TIM;16:42:48;Mensagem bloqueada (Mais de 140 caracteres). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rutrum, dui quis pharetra dignissim, dui leo commodo odio, eu tempus elit nulla sit.
+bff58d7b-8b4a-b852-adf1-ffff653ac25e;12;996958849;NEXTEL;12:24:03;Mensagem bloqueada (DDD SP)
+e7b87f43-4485-414b-9cec-ffff653ac25e;34;990171682;VIVO;21:35:20;Mensagem bloqueada (Hora agendamento maior que 19:59:59)
+llo095gt-9aa8-414b-9cec-ffff653ac25e;4;990171682;VIVO;14:35:20;Mensagem bloqueada. (DDD com menos de 2 dígitos)
+45fdwx34-9aa8-414b-9cec-ffff653ac25e;00;990171682;VIVO;08:35:20;Mensagem bloqueada. (DDD igual a 00)
+c04096fe-ce52-4485-886b-ffff653ac25e;133;970578939;NEXTEL;14:54:16;Mensagem bloqueada. (DDD com mais de 2 dígitos)
+c04096fe-2878-9aa8-886b-ffff653ac25e;200;970456739;NEXTEL;14:54:16;Mensagem bloqueada. (DDD com mais de 2 dígitos)
+c04096fe-2878-4485-886b-ffff653ac25e;531;965413739;NEXTEL;14:54:16;Mensagem bloqueada. (DDD com mais de 2 dígitos)
+e7b87f43-9aa8-414b-9cec-ffff653ac25e;343;990101562;VIVO;17:35:20;Mensagem bloqueada. (DDD com mais de 2 dígitos)
+fgh57423-9aa8-414b-9cec-ffff653ac25e;34;9901716828;VIVO;15:35:20;Mensagem bloqueada. (CELULAR com mais de 9 dígitos)
+rfjio3d4-9aa8-414b-9cec-ffff653ac25e;34;99716828;VIVO;13:35:20;Mensagem bloqueada. (CELULAR com menos de 9 dígitos)
+56ghtyrd-9aa8-2878-9cec-ffff653ac25e;34;790171682;VIVO;14:35:20;Mensagem bloqueada. (CELULAR não inicia com o dígito 9)
+sde43frt-9aa8-414b-9cec-ffff653ac25e;31;951231682;VIVO;17:35:20;Mensagem bloqueada. (CELULAR possui segundo dígito menor que 6)
+bff58d7b-8b4a-456a-vg52-395c8875ad30;24;986722083;OI;10:24:03;Mensagem bloqueada (Destinatário na black list).
